@@ -1,0 +1,8 @@
+{
+  "name": "Project ChronoSync - Delirium Prediction System",
+  "description": "Zero-touch clinical ICU bedside platform for ambient autonomic-circadian decoupling and real-time delirium prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
